@@ -1,0 +1,16 @@
+D:\Discord Applications\RPC Changer\RPC Changer\bin\Debug\RPC Changer.exe.config
+D:\Discord Applications\RPC Changer\RPC Changer\bin\Debug\RPC Changer.exe
+D:\Discord Applications\RPC Changer\RPC Changer\bin\Debug\RPC Changer.pdb
+D:\Discord Applications\RPC Changer\RPC Changer\bin\Debug\DiscordRPC.dll
+D:\Discord Applications\RPC Changer\RPC Changer\bin\Debug\Newtonsoft.Json.dll
+D:\Discord Applications\RPC Changer\RPC Changer\bin\Debug\DiscordRPC.pdb
+D:\Discord Applications\RPC Changer\RPC Changer\bin\Debug\DiscordRPC.xml
+D:\Discord Applications\RPC Changer\RPC Changer\bin\Debug\Newtonsoft.Json.xml
+D:\Discord Applications\RPC Changer\RPC Changer\obj\Debug\RPC Changer.csprojAssemblyReference.cache
+D:\Discord Applications\RPC Changer\RPC Changer\obj\Debug\RPC_Changer.discordPresenceChanger.resources
+D:\Discord Applications\RPC Changer\RPC Changer\obj\Debug\RPC_Changer.Properties.Resources.resources
+D:\Discord Applications\RPC Changer\RPC Changer\obj\Debug\RPC Changer.csproj.GenerateResource.cache
+D:\Discord Applications\RPC Changer\RPC Changer\obj\Debug\RPC Changer.csproj.CoreCompileInputs.cache
+D:\Discord Applications\RPC Changer\RPC Changer\obj\Debug\RPC Changer.csproj.CopyComplete
+D:\Discord Applications\RPC Changer\RPC Changer\obj\Debug\RPC Changer.exe
+D:\Discord Applications\RPC Changer\RPC Changer\obj\Debug\RPC Changer.pdb
